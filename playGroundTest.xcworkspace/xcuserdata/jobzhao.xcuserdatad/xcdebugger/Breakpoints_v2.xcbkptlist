@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BBFD8EA9-701B-4797-8D57-7C92B2DFCB38"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "726B5A17-FB90-410C-89F6-07BDF008EB43"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "playGroundTest/RichTextParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "93"
+            endingLineNumber = "93"
+            landmarkName = "mergeSpecialDataAndHtmlAttribute(htmlString:specialDataTypesString:textAttachmentAttributes:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "08813824-9AF0-446C-966E-31E0FCF7FC55"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "playGroundTest/RichTextParser.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "88"
+            endingLineNumber = "88"
+            landmarkName = "mergeSpecialDataAndHtmlAttribute(htmlString:specialDataTypesString:textAttachmentAttributes:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "08813824-9AF0-446C-966E-31E0FCF7FC55 - 53ec90dca78c7258"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "playGroundTest.RichTextParser.mergeSpecialDataAndHtmlAttribute(htmlString: __C.NSMutableAttributedString, specialDataTypesString: __C.NSAttributedString, textAttachmentAttributes: Swift.Array&lt;Swift.Dictionary&lt;__C.NSAttributedStringKey, Any&gt;&gt;) -&gt; __C.NSMutableAttributedString"
+                  moduleName = "playGroundTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jobzhao/Documents/playGroundTest/playGroundTest/RichTextParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "88"
+                  endingLineNumber = "88"
+                  offsetFromSymbolStart = "612">
+               </Location>
+               <Location
+                  uuid = "08813824-9AF0-446C-966E-31E0FCF7FC55 - 3b36c019f9ea3f66"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Dictionary&lt;__C.NSAttributedStringKey, Any&gt;, __C._NSRange, Swift.UnsafeMutablePointer&lt;ObjectiveC.ObjCBool&gt;) -&gt; () in playGroundTest.RichTextParser.mergeSpecialDataAndHtmlAttribute(htmlString: __C.NSMutableAttributedString, specialDataTypesString: __C.NSAttributedString, textAttachmentAttributes: Swift.Array&lt;Swift.Dictionary&lt;__C.NSAttributedStringKey, Any&gt;&gt;) -&gt; __C.NSMutableAttributedString"
+                  moduleName = "playGroundTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/jobzhao/Documents/playGroundTest/playGroundTest/RichTextParser.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "89"
+                  endingLineNumber = "89"
+                  offsetFromSymbolStart = "329">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

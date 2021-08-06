@@ -1,0 +1,40 @@
+PODS:
+  - Down (0.11.0)
+  - iosMath (0.9.4)
+  - RichTextView (3.1.0):
+    - Down
+    - iosMath
+    - SnapKit
+  - SnapKit (5.0.1)
+  - SwiftSoup (2.3.2)
+
+DEPENDENCIES:
+  - RichTextView (from `https://github.com/tophat/RichTextView.git`)
+  - SwiftSoup
+
+SPEC REPOS:
+  trunk:
+    - Down
+    - iosMath
+    - SnapKit
+    - SwiftSoup
+
+EXTERNAL SOURCES:
+  RichTextView:
+    :git: https://github.com/tophat/RichTextView.git
+
+CHECKOUT OPTIONS:
+  RichTextView:
+    :commit: c564de9ec7df733968fd66935e5ee8f3c66859dc
+    :git: https://github.com/tophat/RichTextView.git
+
+SPEC CHECKSUMS:
+  Down: b6ba1bc985c9d2f4e15e3b293d2207766fa12612
+  iosMath: f7a6cbadf9d836d2149c2a84c435b1effc244cba
+  RichTextView: 2bfd640a652ce50dc313c11ac0703300df9148b9
+  SnapKit: 97b92857e3df3a0c71833cce143274bf6ef8e5eb
+  SwiftSoup: f97bc4e988c7729d6457f9642f974c617a6e2510
+
+PODFILE CHECKSUM: ffccd2c0bbff0324dea7d5d76b43e0aac425daf6
+
+COCOAPODS: 1.10.1
